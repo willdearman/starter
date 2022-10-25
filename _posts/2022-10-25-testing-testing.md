@@ -3,8 +3,8 @@ layout: blog
 category: blog
 published: false
 title: testing_testing
-splash: ''
-tags: ''
+tags:
+  - apples
 ---
 ## Some new post
 This is a test
